@@ -22,7 +22,7 @@
 
 10.3. [Pacemaker](https://github.com/YundinMS/10.3_HW/blob/main/10.3_HW.md)
 
-10.4. [Резервное копирование. Bacula]()
+10.4. [Резервное копирование. Bacula](https://github.com/YundinMS/10.4_HW/blob/main/10.4_HW.md)
 
 10.5. [Балансировка нагрузки. HAProxy/Nginx]()
 
