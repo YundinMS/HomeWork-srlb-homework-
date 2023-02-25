@@ -24,7 +24,7 @@
 
 10.4. [Резервное копирование. Bacula](https://github.com/YundinMS/10.4_HW/blob/main/10.4_HW.md)
 
-10.5. [Балансировка нагрузки. HAProxy/Nginx]()
+10.5. [Балансировка нагрузки. HAProxy/Nginx](https://github.com/YundinMS/10.5_HW/blob/main/10.5_HW.md)
 
 10.6. [Disaster recovery]()
 
