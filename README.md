@@ -26,6 +26,6 @@
 
 10.5. [Балансировка нагрузки. HAProxy/Nginx](https://github.com/YundinMS/10.5_HW/blob/main/10.5_HW.md)
 
-10.6. [Disaster recovery]()
+10.6. [Disaster recovery](https://github.com/YundinMS/10.6_HW/blob/main/10.6_HW.md)
 
 10.7. [Отказоустойчивость в облаке]()
